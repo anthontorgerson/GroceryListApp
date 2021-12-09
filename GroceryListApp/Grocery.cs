@@ -1,4 +1,9 @@
-﻿using System;
+﻿/***************************************************************
+* Name        : CIS152 – Data Structures
+* Author      : Anthon Torgerson
+* Created     : 12/08/2021
+***************************************************************/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
