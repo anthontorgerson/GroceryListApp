@@ -31,7 +31,7 @@ namespace GroceryListApp
             Console.WriteLine("[ 3: Sort Grocery List by Priority ]");
             Console.WriteLine("[ 4: Sort Grocery List by Quantity ]");
             Console.WriteLine("[ 5: Delete Items From List ]");
-            Console.WriteLine("[ 5: End Program ]");
+            Console.WriteLine("[ 00: Make Another Selection or Any Number Not Listed To End The Program. ]");
         }
 
         // user selection method
@@ -73,9 +73,7 @@ namespace GroceryListApp
                           
                                 while (!int.TryParse(Console.ReadLine(), out priority))
                                 {
-                                
                                     Console.WriteLine("Input must be a number");
-
                                 }
                             
                             newGrocery.setPriorityNum(priority);
@@ -85,8 +83,6 @@ namespace GroceryListApp
                             Console.WriteLine("Position In List: ");
                             while (!int.TryParse(Console.ReadLine(), out pos))
                             {
-                               
-                            
                                 Console.WriteLine("Input must be a number");
                             }
                             groceryList.insert(val, pos);
@@ -117,7 +113,7 @@ namespace GroceryListApp
                             Console.WriteLine("Invalid Entry. Please enter a selection from 1 to 5");
                             break;
                     }
-                    Console.WriteLine("Enter 00 make another selection or type a non-selection number to end the program.");
+                    Console.WriteLine("Enter 00 to make another selection or type a non-selection number to end the program.");
                     startProg = Convert.ToInt32(Console.ReadLine());
                 }
             }
