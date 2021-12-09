@@ -1,0 +1,16 @@
+C:\Users\AnthonT\source\repos\GroceryListApp\GroceryListApp\bin\Debug\net5.0\GroceryListApp.exe
+C:\Users\AnthonT\source\repos\GroceryListApp\GroceryListApp\bin\Debug\net5.0\GroceryListApp.deps.json
+C:\Users\AnthonT\source\repos\GroceryListApp\GroceryListApp\bin\Debug\net5.0\GroceryListApp.runtimeconfig.json
+C:\Users\AnthonT\source\repos\GroceryListApp\GroceryListApp\bin\Debug\net5.0\GroceryListApp.runtimeconfig.dev.json
+C:\Users\AnthonT\source\repos\GroceryListApp\GroceryListApp\bin\Debug\net5.0\GroceryListApp.dll
+C:\Users\AnthonT\source\repos\GroceryListApp\GroceryListApp\bin\Debug\net5.0\ref\GroceryListApp.dll
+C:\Users\AnthonT\source\repos\GroceryListApp\GroceryListApp\bin\Debug\net5.0\GroceryListApp.pdb
+C:\Users\AnthonT\source\repos\GroceryListApp\GroceryListApp\obj\Debug\net5.0\GroceryListApp.csproj.AssemblyReference.cache
+C:\Users\AnthonT\source\repos\GroceryListApp\GroceryListApp\obj\Debug\net5.0\GroceryListApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AnthonT\source\repos\GroceryListApp\GroceryListApp\obj\Debug\net5.0\GroceryListApp.AssemblyInfoInputs.cache
+C:\Users\AnthonT\source\repos\GroceryListApp\GroceryListApp\obj\Debug\net5.0\GroceryListApp.AssemblyInfo.cs
+C:\Users\AnthonT\source\repos\GroceryListApp\GroceryListApp\obj\Debug\net5.0\GroceryListApp.csproj.CoreCompileInputs.cache
+C:\Users\AnthonT\source\repos\GroceryListApp\GroceryListApp\obj\Debug\net5.0\GroceryListApp.dll
+C:\Users\AnthonT\source\repos\GroceryListApp\GroceryListApp\obj\Debug\net5.0\ref\GroceryListApp.dll
+C:\Users\AnthonT\source\repos\GroceryListApp\GroceryListApp\obj\Debug\net5.0\GroceryListApp.pdb
+C:\Users\AnthonT\source\repos\GroceryListApp\GroceryListApp\obj\Debug\net5.0\GroceryListApp.genruntimeconfig.cache
